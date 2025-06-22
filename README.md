@@ -6,7 +6,7 @@ An interactive and visually appealing web application to demonstrate how sorting
 
 ## 🔗 Live Demo
 
-🚀 [Click here to view live on Vercel](https://sorting-visualizer-codewitharish.vercel.app)
+🚀 [Click here to view live on Vercel](https://sorting-visualizer-murex-eight.vercel.app/)
 
 ---
 
